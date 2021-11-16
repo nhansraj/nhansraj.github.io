@@ -1,14 +1,14 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
-#<b> Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service!</b)
+<b> Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service!</b>
 
 Vascular surgery is an exciting, rapidly-evolving specialty. We operate with open surgical and percutaneous/endovascular techniques in virtually all areas of the body for a wide range of pathologies. Since this will only be a two-week rotation, focus on fundamental concepts, including: how to identify and quantify lower extremity peripheral arterial disease (PAD); indications for carotid artery interventions; means of achieving permanent dialysis access in patients with end-stage renal disease; and identifying foot infections. 
   
-  ##<b><u>Pre-rotation:</u></b>
+  <b><u>Pre-rotation:</b></u><br>
 CPRS access: strongly recommend this to be more actively involved in patient care. Can obtain this via Carol Young (Carol.Young2@va.gov). I am your faculty contact for any issues.
   
-  ##<b><u>Over view of Rotation:</u></b>
+  <b><u>Over view of Rotation:</u></b>
 1.	Morning Rounds: Start at 6am. NO prerounds. There are table rounds at 745 AM on Monday and Thursday. Plan to meet the senior fellow on your first day of the rotation (using the contact information provided on the email from the Surgery Education Office). Call 26800(OR) or Vascular Surgery Resident room (26171) day before to arrange this.<br>
 2.	OR Cases begin by 0730am on Monday, Tuesday, Thursday and Friday, 0830 on Wednesdays.<br>
 3.	Wear the two-piece lead aprons and a thyroid shield for any case involving fluoroscopic imaging. These provide excellent protection and are superior to the one-piece lead aprons that leave you exposed if you turn away from the radiation source<br>
@@ -16,7 +16,7 @@ CPRS access: strongly recommend this to be more actively involved in patient car
 5.	Didactics: We are aware of your seminars on Wednesday mornings. Ensure you also attend any chairman rounds that Dr. Rosengart plans during your rotation.<br>
 6.	Pager: If it is a ten-digit pager number, dial the number. After you here the tone, dial in your call back number, then press "#". If it is a four-digit pager number, dial "*5", then the four-digit number. Dial in your call back number after the tone and wait for the confirmation tone or message.<br>
   
-##<b><u>Enhancing your experience:</u></b>
+<b><u>Enhancing your experience:</u></b>
   1.	<u>Main advice:</u> To enhance your experience participate actively and take initiative. Ask questions. Request up to 2 inpatients you can follow closely; read about their pathology and management, write notes, and be involved in formulating the plan of care. Try to see consults with the on-call resident. Know the OR schedule in advance, and familiarize yourself with the details of the case -- their initial presentation and indication for the operation, basics about the procedure, relevant anatomy, and post-operative complications that may occur. Don't just stand around in the OR either -- be involved in positioning, have someone teach you how to place a Foley catheter, help retract / cut sutures, ask about closing skin incisions, etc. <br>
 2.	Follow 2 patients- preferably those that you saw preop and operated on. Round on them with the senior and present on Mon/Thurs.<br>
 3.	Notes: Write progress notes (student progress note or H&P). They are supplemental but not replacement of the resident note. The surgery education office has confirmed that a Doppler exam of the lower extremities suffices for the observed H&P requirement for this two-week subspecialty rotation. So, make sure an attending watches you do this doppler exam.<br>
@@ -29,8 +29,6 @@ CPRS access: strongly recommend this to be more actively involved in patient car
 (https://bcmedu-my.sharepoint.com/:f:/g/personal/hansraj_bcm_edu/Es4Z1NUqkUdNvdIR3UpES1AB6djBcZTaQAcfIgTHesKvAg?e=xbnPYS)
 
 Good luck on your rotation! Feel free to reach out to me with any questions or concerns.
-#<b>Natasha Hansraj</b><br>
-#<b>Site director for Vascular Surgery</b>
- 
 
-![image](https://user-images.githubusercontent.com/89874442/142071289-b014dfe1-b027-4cb8-bb37-30d1617348b3.png)
+<b>Natasha Hansraj</b><br>
+<b>Site director for Vascular Surgery</b>
