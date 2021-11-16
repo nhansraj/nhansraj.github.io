@@ -1,6 +1,8 @@
-Hello, 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+gtag('config', 'G-YPLVGC5FDP'); </script>
 
-Welcome to your rotation on the Vascular Surgery service at the Michael E. DeBakey VA Medical Center. 
+Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service! 
+
 
 Vascular surgery is an exciting, rapidly-evolving specialty. We operate with open surgical and percutaneous/endovascular techniques in virtually all areas of the body for a wide range of pathologies. Since this will only be a two-week rotation, focus on fundamental concepts, including: how to identify and quantify lower extremity peripheral arterial disease (PAD); indications for carotid artery interventions; means of achieving permanent dialysis access in patients with end-stage renal disease; and identifying foot infections.  
 
